@@ -1,4 +1,4 @@
-# setting-up-homelab-in-azure
+# Setting Up Homelab In Azure
 
 **This is a thread of me setting up my virtual homelab i Azure to practice Sysadmin tasks.**
 
