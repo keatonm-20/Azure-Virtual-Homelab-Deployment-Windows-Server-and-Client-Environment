@@ -9,7 +9,7 @@
 **Here, I am setting up the server VM using Windows Server 2022. It says I used US East region for my VMs, but I went back later to create the VMs over due to errors that I didn't get to document. You will see in later pictuers.**
 
 ![Dashboard Screenshot](images/img4.png)
-### VM is deploying
+## VM is deploying
 
 ![Dashboard Screenshot](images/img5.png)
 **This is where I created the VM for the client computer using Windows 11 Enterprise. I used zone 2, and I couldn't figure out what it did, but it wouldn't allow to use Zone 1 for the Windows Server VM and in order to connect both VMs to the same vnet it was necessary to add both to the same region and zone.**
