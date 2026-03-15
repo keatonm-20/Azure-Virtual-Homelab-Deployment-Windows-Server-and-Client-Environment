@@ -14,16 +14,19 @@
 ![Dashboard Screenshot](images/img5.png)
 **This is where I created the VM for the client computer using Windows 11 Enterprise. I used zone 2, and I couldn't figure out what it did, but it wouldn't allow to use Zone 1 for the Windows Server VM and in order to connect both VMs to the same vnet it was necessary to add both to the same region and zone.**
 
-![Dashboard Screenshot](images/img7.png) (Place in different area)
-
 ![Dashboard Screenshot](images/img8.png)
 ### VMs are finished
 **As you can see the location says West US 2. I was having issues with the last VMs I created in East US and there was an outage in East US (I hear that outages are common in East US 1).** 
 
 ![Dashboard Screenshot](images/img9.png)
+### Resizing virtual machines
+**I resized my VMs for more speed and better ease of use. I was using B1s, which only had 2gb of RAM, and I switched to B2s with 4gb RAM and 2 CPU. It was much faster and made setting up my server much easier.**
+
 ![Dashboard Screenshot](images/img10.png)
 ![Dashboard Screenshot](images/img11.png)
 ![Dashboard Screenshot](images/img12.png)
+### Setting up server
+
 ![Dashboard Screenshot](images/img13.png)
 ![Dashboard Screenshot](images/img14.png)
 ![Dashboard Screenshot](images/img15.png)
