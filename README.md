@@ -12,6 +12,8 @@
 ## VM is deploying
 
 ![Dashboard Screenshot](images/img5.png)
+
+
 **This is where I created the VM for the client computer using Windows 11 Enterprise. I used zone 2, and I couldn't figure out what it did, but it wouldn't allow to use Zone 1 for the Windows Server VM and in order to connect both VMs to the same vnet it was necessary to add both to the same region and zone.**
 
 ![Dashboard Screenshot](images/img8.png)
@@ -31,17 +33,18 @@
 ![Dashboard Screenshot](images/img14.png)
 ![Dashboard Screenshot](images/img15.png)
 ![Dashboard Screenshot](images/img16.png)
+### Creating users
+
 ![Dashboard Screenshot](images/img17.png)
 ![Dashboard Screenshot](images/img18.png)
 ![Dashboard Screenshot](images/img19.png)
 ![Dashboard Screenshot](images/img20.png)
 ![Dashboard Screenshot](images/img21.png)
+### Connecting Client to Server
+**Making sure client computer can reach server and connecting client to the server**
+
 ![Dashboard Screenshot](images/img22.png)
 ![Dashboard Screenshot](images/img23.png)
 ![Dashboard Screenshot](images/img24.png)
 ![Dashboard Screenshot](images/img25.png)
-![Dashboard Screenshot](images/img26.png)
-![Dashboard Screenshot](images/img27.png)
-![Dashboard Screenshot](images/img28.png)
-![Dashboard Screenshot](images/img.png)
-![Dashboard Screenshot](images/img.png)
+### Trying different group policies
