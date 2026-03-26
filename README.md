@@ -1,7 +1,7 @@
 # Setting Up Homelab In Azure
 
 ### Setting up VMs
-**Here, I am setting up the server VM using Windows Server 2022. It says I used US East region for my VMs, but I went back later to create the VMs over due to errors that I didn't get to document. You will see in later pictuers.**<br><br>
+**Here, I am setting up the server VM using Windows Server 2022. It says I used US East region for my VMs, but I went back later to create the VMs over due to errors that I didn't get to document. You will see in later pictures.**<br><br>
 ![Dashboard Screenshot](images/img1.png)
 ![Dashboard Screenshot](images/img2.png)
 ![Dashboard Screenshot](images/img3.png)<br><br><br>
@@ -17,7 +17,7 @@
 ---
 ---
 
-**This is where I created the VM for the client computer using Windows 11 Enterprise. I used zone 2, and I couldn't figure out what it did, but it wouldn't allow to use Zone 1 for the Windows Server VM and in order to connect both VMs to the same vnet it was necessary to add both to the same region and zone.**<br><br>
+**This is where I created the VM for the client computer using Windows 11 Enterprise. I used zone 2, and I couldn't figure out what it did, but it wouldn't allow me to use Zone 1 for the Windows Server VM and in order to connect both VMs to the same vnet it was necessary to add both to the same region and zone.**<br><br>
 ![Dashboard Screenshot](images/img5.png)<br><br><br>
 
 ---
@@ -25,7 +25,7 @@
 ---
 
 ### VMs are finished
-**As you can see the location says West US 2. I was having issues with the last VMs I created in East US and there was an outage in East US (I hear that outages are common in East US 1).** <br><br>
+**As you can see the location says West US 2. I was having issues with the last VMs I created in East US and there was an outage in East US.** <br><br>
 ![Dashboard Screenshot](images/img8.png)<br><br><br>
 
 ---
