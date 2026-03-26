@@ -1,10 +1,5 @@
 # Setting Up Homelab In Azure
 
-**This is a thread of me setting up my virtual homelab i Azure to practice Sysadmin tasks.**<br><br>
-
----
----
----
 ### Setting up VMs
 **Here, I am setting up the server VM using Windows Server 2022. It says I used US East region for my VMs, but I went back later to create the VMs over due to errors that I didn't get to document. You will see in later pictuers.**<br><br>
 ![Dashboard Screenshot](images/img1.png)
