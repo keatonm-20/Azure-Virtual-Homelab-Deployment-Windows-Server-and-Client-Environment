@@ -1,5 +1,10 @@
 # Azure Virtual Homelab Deployment (Windows Server & Client Environment)
 
+## 🚀 Skills Demonstrated (Overview)
+- Azure VM deployment and virtual networking
+- Windows Server & Windows 11 administration (AD, GPO, DHCP, DNS)
+
+
 ### Setting up VMs
 **Here, I am setting up the server VM using Windows Server 2022. It says I used US East region for my VMs, but I went back later to create the VMs over due to errors that I didn't get to document. You will see in later pictures.**<br><br>
 ![Dashboard Screenshot](images/img1.png)
