@@ -3,6 +3,7 @@
 ## 🚀 Skills Demonstrated (Overview)
 - Azure VM deployment and virtual networking
 - Windows Server & Windows 11 administration (AD, GPO, DHCP, DNS)
+- File sharing, permissions, and basic security hardening
 
 ---
 
